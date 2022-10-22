@@ -1,0 +1,3 @@
+binary: initial.stl => initial.txt => initialwall.txt(静定用)
+dual: initialwall.txt(静定用) + ship.csv => initial.txt
+dual2: initialwall.txt(本計算用) + seitei.txt => initial.txt
