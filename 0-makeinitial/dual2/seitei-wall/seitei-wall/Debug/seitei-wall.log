@@ -1,0 +1,3 @@
+﻿  dual2.cpp
+C:\Users\Furusyo Kazuki\Desktop\tsubame\0-makeinitial\dual2\seitei-wall\seitei-wall\dual2.cpp(46,12): warning C4476: 'printf' : 形式指定子に不明な種類フィールド文字 '\xef' があります
+  seitei-wall.vcxproj -> C:\Users\Furusyo Kazuki\Desktop\tsubame\0-makeinitial\dual2\seitei-wall\Debug\seitei-wall.exe

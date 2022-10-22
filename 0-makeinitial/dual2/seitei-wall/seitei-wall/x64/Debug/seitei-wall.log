@@ -1,0 +1,3 @@
+﻿  dual2.cpp
+D:\experiment_new\cylinder300-initial\0-makeinitial\dual2\seitei-wall\seitei-wall\dual2.cpp(46,12): warning C4476: 'printf' : 形式指定子に不明な種類フィールド文字 '\xef' があります
+  seitei-wall.vcxproj -> D:\experiment_new\cylinder300-initial\0-makeinitial\dual2\seitei-wall\x64\Debug\seitei-wall.exe
